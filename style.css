@@ -93,6 +93,7 @@ body{
 
 .card .info-txt .price{
     margin-top: 20px;
+    padding: 0 10px;
 }
 
 .card .info-txt .price span:first-of-type{
@@ -111,7 +112,7 @@ body{
 }
 
 .card .info-txt button{
-    width: calc(100% - 40px);
+    width: calc(100% - 20px);
     margin: 15px auto 0;
     color: var(--white);
     border: none;
